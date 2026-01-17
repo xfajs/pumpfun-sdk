@@ -320,3 +320,5 @@ module.exports = {
 ---
 
 thank u for using my code! please do not monetize any part of this code
+side note: i do take a small fee on all transactions on my open source code
+if you would like to remove it thats fine :)
